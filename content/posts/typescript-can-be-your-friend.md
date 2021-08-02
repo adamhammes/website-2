@@ -208,7 +208,7 @@ And _this_ is our sweet spot. The compiler is not only helping you avoid writing
 
 And, as an added benefit, the function body _is exactly the same_ as the plain JS version. We're able to maintain the dynamism and expressivity of JS but put guidelines around it, for ourselves and whomever touches the code next.
 
-There are lots of ways to weild TypeScript, and it's not always easy to get to the sweet spot. But code authored in this way can seriously be a plus, and can assist in everything from reading/groking a codebase to bolstering confidence in huge refactors that may touch many things. 
+There are lots of ways to wield TypeScript, and it's not always easy to get to the sweet spot. But code authored in this way can seriously be a plus, and can assist in everything from reading/groking a codebase to bolstering confidence in huge refactors that may touch many things. 
 
 So let TypeScript be your friend!
 
